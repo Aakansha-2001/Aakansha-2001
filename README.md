@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakansha-2001&label=Profile%20views&color=0e75b6&style=flat" alt="aakansha-2001" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend Technologies**
 
-- 💬 Ask me about **HTML,CSS,Javascript,Bootstrap**
+- 💬 Ask me about **HTML,CSS,Javascript,Bootstrap,React.js**
 
 - 📫 How to reach me **aakanshanavnage123@gmail.com**
 
