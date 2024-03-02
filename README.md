@@ -10,7 +10,7 @@
 - 💬 Ask me about **HTML,CSS,Javascript,Bootstrap,React.js**
 
 - 📫 How to reach me **aakanshanavnage123@gmail.com**
-
+- 📫 My Portfolio **https://aakanshaportfolio.netlify.app**
 - ⚡ Hobbies **Reading, Dance**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aakansha-navnage?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bvitghkbaslqh1de3a4qmvg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aakansha-navnage?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bvitghkbaslqh1de3a4qmvg%3d%3d" height="30" width="40" /></a>  
 </p>
 
-<a href="https://aakanshaportfolio.netlify.app"></a>
+
 
 
 
